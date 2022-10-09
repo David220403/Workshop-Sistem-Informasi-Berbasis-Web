@@ -1,3 +1,3 @@
 <?php
 
-$koneksi = mysqli_connect("localhost", "root","","tutorial");
+$koneksi = mysqli_connect("localhost","root","","mydts");
